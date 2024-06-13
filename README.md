@@ -114,14 +114,14 @@ Can take description as well for labelling
 Evaluation Metric:
 F1-Score as data is imbalanced
 
-Training: \ 
+Training:\ 
 Epoch 1 \
 Training loss: 0.20996832987158887 \
 Validation loss: 0.31821184134476377 \
 F1 Score (Weighted): 0.9020082201038174 \
 
 Epoch 2
-Training loss: 0.2120044876928212
+Training loss: 0.2120044876928212 
 Validation loss: 0.28195449785616633
 F1 Score (Weighted): 0.9074309908181265
 ...
