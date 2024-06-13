@@ -31,7 +31,7 @@ topic distribution after clustering
 | 5 | 11064 |
 
 PylDAvis:
-![LDA sklearn]("/Data/lda_sklearn.png")
+![LDA sklearn](/Data/lda_sklearn.png)
 
 Above shows clear distinction of 6 clusters which is good topic model.
 
