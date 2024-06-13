@@ -31,7 +31,7 @@ topic distribution after clustering
 Name: count, dtype: int64
 
 PylDAvis:
-![LDA sklearn]("./Data/lda_sklearn.jpg")
+![LDA sklearn]("./Data/lda_sklearn.png")
 
 Above shows clear distinction of 6 clusters which is good topic model.
 
@@ -77,22 +77,22 @@ topic_indices
 
 WordClouds:
 cluster 1
-![alt text]("/Data/Cluster1_Kmeans.jpg")
+![cluster 1]("./Data/Cluster1_Kmeans.png")
 
 cluster 2
-![alt text]("Data/Cluster2_Kmeans.jpg")
+![cluster 2]("./Data/Cluster2_Kmeans.png")
 
 cluster 3
-![alt text]("Data/Cluster3_Kmeans.jpg")
+![cluster 3]("./Data/Cluster3_Kmeans.png")
 
 cluster 4
-![alt text]("Data/Cluster4_Kmeans.jpg")
+![cluster 4]("./Data/Cluster4_Kmeans.png")
 
 cluster 5
-![alt text]("Data/Cluster5_Kmeans.jpg")
+![cluster 5]("Data/Cluster5_Kmeans.png")
 
 cluster 6
-![alt text]("Data/Cluster6_Kmeans.jpg")
+![cluster 6]("Data/Cluster6_Kmeans.png")
 
 
 output: 
@@ -302,7 +302,7 @@ Expandable Upto 128 GB   ->>>>   EXPANDABLE_STORAGE
 Quad-Core Processor   ->>>>   PROCESSOR_CORE
 
 Final Output:
-![alt text]("Training Data/Mobile/final_output_mobile.png")
+![alt text]("./Training Data/Mobile/final_output_mobile.png")
 And final result stored in raining Data/Mobile/Final_Result_Mobile.csv
 
 ```python
@@ -361,7 +361,7 @@ ASUS FX506LHB-HN355W i5   ->>>>   PROCESSOR
 8G\/ 512   ->>>>   RAM
 
 Final Output:
-![alt text]("Training Data/Laptop/final_output_laptop.png")
+![alt text]("./Training Data/Laptop/final_output_laptop.png")
 And final result stored in raining Data/Laptop/Final_Result_Laptop.csv
 
 ## Improvements
