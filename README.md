@@ -77,7 +77,7 @@ topic_indices
 
 WordClouds:
 cluster 1
-![alt text]("Data/Cluster1_Kmeans.jpg")
+![alt text]("/Data/Cluster1_Kmeans.jpg")
 
 cluster 2
 ![alt text]("Data/Cluster2_Kmeans.jpg")
