@@ -31,7 +31,7 @@ topic distribution after clustering
 Name: count, dtype: int64
 
 PylDAvis:
-![alt text]("Data/lda_sklearn.jpg")
+![alt text]("/Data/lda_sklearn.jpg")
 
 Above shows clear distinction of 6 clusters which is good topic model.
 
