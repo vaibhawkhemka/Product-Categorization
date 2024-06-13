@@ -36,17 +36,17 @@ PylDAvis:
 Above shows clear distinction of 6 clusters which is good topic model.
 
 Output:
-Topic: 0
+Topic: 0 \
   bag, laptop, type, warranty, windows
-Topic: 1
+Topic: 1 \
   flip, phone, card, wallet, mobile
-Topic: 2
+Topic: 2 \
   compatible, watch, galaxy, leather, samsung
-Topic: 3
+Topic: 3 \
   iphone, watch, smart, women, bluetooth
-Topic: 4
+Topic: 4 \
   case, cover, charger, pro, charging
-Topic: 5
+Topic: 5 \
   vivo, inch, display, laptop, intel
 
 By above it can be seen clearly that 
