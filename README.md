@@ -21,14 +21,14 @@ title (clean) and countervectorizer . Taking description can also improve the pe
 
 Results:
 topic distribution after clustering
-  topic_indices
-4    28693
-2    19780
-5    11064
-3     9971
-0     7433
-1     6360
-Name: count, dtype: int64
+| Topic Index | Count |
+| --- | --- |
+| 0 | 7433 |
+| 1 | 6360 |
+| 2 | 19780 |
+| 3 | 9971 |
+| 4 | 28693 |
+| 5 | 11064 |
 
 PylDAvis:
 ![LDA sklearn]("./Data/lda_sklearn.png")
@@ -67,13 +67,14 @@ title (clean) is taken as a feature. Taking description can also improve the per
 
 Result:
 topic distribution after clustering \
-topic_indices \
-3    23072
-4    16569
-2    15911
-1    11046
-5     9279
-6     7424
+| Topic Index | Count |
+| --- | --- |
+| 1 | 11046 |
+| 2 | 15911 |
+| 3 | 23072 |
+| 4 | 16569 |
+| 5 | 9279 |
+| 6 | 7424 |
 
 WordClouds: \
 cluster 1
@@ -151,19 +152,20 @@ F1-SCORE: 90%
 ### Experiment 2 - (Kmeans Data, Trained with 50% of labelled data)
 
 Data classes distribution: \
-label	data_type	\
-0	train	4505
-val	795
-1	train	6548
-val	1156
-2	train	9439
-val	1665
-3	train	6739
-val	1189
-4	train	3761
-val	664
-5	train	3008
-val	531
+| Label | Data Type | Train | Val |
+| --- | --- | --- | --- |
+| 0 | train | 4505 | 795 |
+| 0 | val |  |  |
+| 1 | train | 6548 | 1156 |
+| 1 | val |  |  |
+| 2 | train | 9439 | 1665 |
+| 2 | val |  |  |
+| 3 | train | 6739 | 1189 |
+| 3 | val |  |  |
+| 4 | train | 3761 | 664 |
+| 4 | val |  |  |
+| 5 | train | 3008 | 531 |
+| 5 | val |  |  |
 
 Evaluation Metric:
 Imbalanced data can handled by choosing correct evaluation metric which is Precision, Recall and F-Score
