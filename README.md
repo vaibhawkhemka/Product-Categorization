@@ -31,7 +31,7 @@ topic distribution after clustering
 Name: count, dtype: int64
 
 PylDAvis:
-![alt text]("Data/lda_sklearn.jpg")
+![LDA sklearn]("./Data/lda_sklearn.jpg")
 
 Above shows clear distinction of 6 clusters which is good topic model.
 
@@ -77,7 +77,7 @@ topic_indices
 
 WordClouds:
 cluster 1
-![alt text]("Data/Cluster1_Kmeans.jpg")
+![alt text]("/Data/Cluster1_Kmeans.jpg")
 
 cluster 2
 ![alt text]("Data/Cluster2_Kmeans.jpg")
