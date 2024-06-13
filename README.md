@@ -78,22 +78,22 @@ topic distribution after clustering \
 
 WordClouds: \
 cluster 1
-![cluster 1]("./Data/Cluster1_Kmeans.png")
+![cluster 1](/Data/Cluster1_Kmeans.png)
 
 cluster 2
-![cluster 2]("./Data/Cluster2_Kmeans.png")
+![cluster 2](Data/Cluster2_Kmeans.png)
 
 cluster 3
-![cluster 3]("./Data/Cluster3_Kmeans.png")
+![cluster 3](/Data/Cluster3_Kmeans.png)
 
 cluster 4
-![cluster 4]("./Data/Cluster4_Kmeans.png")
+![cluster 4](/Data/Cluster4_Kmeans.png")
 
 cluster 5
-![cluster 5]("Data/Cluster5_Kmeans.png")
+![cluster 5](/Data/Cluster5_Kmeans.png)
 
 cluster 6
-![cluster 6]("Data/Cluster6_Kmeans.png")
+![cluster 6](/Data/Cluster6_Kmeans.png)
 
 
 output: 
@@ -304,7 +304,7 @@ Expandable Upto 128 GB   ->>>>   EXPANDABLE_STORAGE \
 Quad-Core Processor   ->>>>   PROCESSOR_CORE \
 
 Final Output:
-![alt text]("./Training Data/Mobile/final_output_mobile.png")
+![alt text](/Training Data/Mobile/final_output_mobile.png)
 And final result stored in raining Data/Mobile/Final_Result_Mobile.csv
 
 ```python
@@ -364,7 +364,7 @@ ASUS FX506LHB-HN355W i5   ->>>>   PROCESSOR \
 8G\/ 512   ->>>>   RAM \
 
 Final Output:
-![alt text]("./Training Data/Laptop/final_output_laptop.png")
+![alt text](/Training Data/Laptop/final_output_laptop.png)
 And final result stored in raining Data/Laptop/Final_Result_Laptop.csv
 
 ## Improvements
